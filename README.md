@@ -35,7 +35,6 @@
  
  ![Details](https://user-images.githubusercontent.com/102539437/200119885-d40d87ff-a32d-4eba-8d07-fe15c1281d9a.jpg)
 
-
  * Add Post
  ![NewPost](https://user-images.githubusercontent.com/102539437/200119896-5fae1a75-9fb5-4a37-99f7-abc3c5302dda.jpg)
 
